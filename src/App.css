@@ -1,0 +1,102 @@
+.container {
+  text-align: center;
+}
+
+.header {
+  background-color: #f0f0f0;
+  padding: 20px;
+}
+
+.headerContent {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.intro {
+  text-align: left;
+  width: 100%;
+}
+
+.introText {
+  margin: 0 auto 20px;
+}
+
+.profilePic {
+  flex: 1;
+  text-align: left;
+}
+
+.profileImg {
+  max-width: 100px;
+  border-radius: 50%;
+}
+
+.navigation {
+  background-color: #333;
+  padding: 10px 0;
+}
+
+.section {
+  padding: 20px;
+  text-align: left;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.th,
+.td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.navList {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.navLink {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 20px;
+}
+
+.contactLink {
+  margin-left: auto;
+}
+
+.footer {
+  background-color: #333;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+.contactInfo {
+  color: #fff;
+  margin-bottom: 10px;
+}
+
+.socialIcons {
+  display: flex;
+  justify-content: center;
+}
+
+.icon {
+  max-width: 30px;
+  margin: 0 10px;
+}
+
+.sectionList {
+  text-align: left;
+}
+
+.listItem {
+  margin: 0 auto;
+  text-align: left;
+}
